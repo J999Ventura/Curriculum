@@ -10116,3 +10116,35 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+
+@media (min-width: 320px) {
+  .vid {
+	width: 22rem;
+	height: 9rem;
+  }
+}
+
+@media (min-width: 576px) {
+  .vid {
+	width: 22rem;
+	height: 9rem;
+  }
+}
+@media (min-width: 768px) {
+	.vid {
+		width: 30rem;
+		height: 15rem;
+	}
+}
+@media (min-width: 992px) {
+	.vid {
+		width: 48rem;
+		height: 23rem;
+	}
+}
+@media (min-width: 1200px) {
+	.vid {
+		width: 48rem;
+		height: 23rem;
+	}
+}
